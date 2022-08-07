@@ -1,6 +1,9 @@
 ### Hi there 👋
- I don't know what I'm doing
+ I don't know what I'm doing...
+  Style guide for team Project...
+  I'm already getting it
 <!--
+I'm already getting it
 **Cokerwhite/Cokerwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
